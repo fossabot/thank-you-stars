@@ -4,6 +4,8 @@ thank-you-stars
 Give your dependencies stars on GitHub!
 
 ## Setup
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foraoto%2Fthank-you-stars.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foraoto%2Fthank-you-stars?ref=badge_shield)
+
 
 1. Download `thank-you-stars.phar` in [Releases](https://github.com/oraoto/thank-you-stars/releases), or clone this repo:
 
@@ -56,6 +58,9 @@ Starred! https://github.com/symfony/dom-crawler
 
 This project is released under the BSD 3-clause license.
 For more details, see [LICENSE](./LICENSE) file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foraoto%2Fthank-you-stars.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foraoto%2Fthank-you-stars?ref=badge_large)
 
 ## Acknowledgement
 
